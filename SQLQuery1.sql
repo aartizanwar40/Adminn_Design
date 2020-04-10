@@ -1,0 +1,4 @@
+﻿Use [C:\USERS\SHREE\SOURCE\REPOS\ADMIN_DESIGN\ADMIN_DESIGN\APP_DATA\DATABASE1.MDF]
+Go
+exec sp_rename'Table','admin_login'
+Go
